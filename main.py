@@ -31,3 +31,4 @@ print("Here is your menu!")
 time.sleep(1.5)
 print("""-----MENU-----
 """,cooking_method, food, "with", food_description, plant, ioa, " a flavorful", description, "of", DIY_item)
+time.sleep(15)
